@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+.ov_cache/
+queue_alerts/
+queue_system.log
+
+# Images
+*.jpg
+*.jpeg
+*.png
+*.pdf
+
+# Model files (too large for git — download separately)
+*_openvino_model/
+*.bin
+*.pt
+*.onnx
+*.engine
+*.hef
